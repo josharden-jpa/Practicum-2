@@ -1,0 +1,14 @@
+PRACTICUM 2 - DATA ANALYSIS SUMMARY
+-----------------------------------
+Q2a: What is the largest NY county by land area?
+A2a: St. Lawrence County (2679.5 sq miles)
+Q2b: What is the smallest NY county by land area?
+A2b: New York County (22.7 sq miles)
+Q5a: What is the highest point in the state?
+A5a: The highest point is 5344 feet, named Mount Marcy
+Q5b: What is the lowest high point in the state?
+A5b: The lowest high point is 220 feet, named Battle Hill
+Q9a: Most Populous County: Kings (2,646,306)
+Q9a: Least Populous County: Hamilton (5,102)
+Q9b: Most Densely Populated: New York (71,842 / sq mi)
+Q9b: Least Densely Populated: Hamilton (3 / sq mi)
